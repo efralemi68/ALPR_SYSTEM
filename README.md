@@ -1,5 +1,8 @@
 
 # ALPR_SYSTEM
+LIS4042 Artificial Vision 
+Professor Zobeida Guzmán 
+Autumn 2022 UDLAP 
 
 Final Project for Artificial Vision at UDLAP 2022 the main objective of the code is the the creation of a system which has different stages, one of them  apply different filters to have an image improvement, main characteristics are extracted (plate with text) and finally the recognition of alphanumeric signs.
 
